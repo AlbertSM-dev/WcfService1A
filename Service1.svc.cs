@@ -33,6 +33,6 @@ namespace WcfService1A
                 composite.StringValue += "Suffix";
             }
             return composite;
-        }
+        } 
     }
 }
